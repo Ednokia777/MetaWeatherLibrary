@@ -24,4 +24,4 @@ Step 2. Add the dependency
 	}
 
 
-Use MetaWeather.getCurrentWeather(location)
+Use MetaWeather.getCurrentWeather(city, getApplicationContext());
