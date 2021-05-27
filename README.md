@@ -22,3 +22,6 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.Ednokia777:MetaWeatherLibrary:1.0'
 	}
+
+
+Use MetaWeather.getCurrentWeather(location)
