@@ -1,0 +1,3 @@
+include ':metaweatherlibrary'
+include ':app'
+rootProject.name = "MetaWeatherLib"
